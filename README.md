@@ -63,9 +63,11 @@ Veja os vídeos demonstrando os testes do front-end com o [back-end](https://git
 
 ### Página inicial
 
-### Página `GetTicket`
+https://github.com/user-attachments/assets/125f038c-0907-474b-adaf-2d5604f91164
 
-### Página `Ticket`
+### Página `GetTicket` e `Ticket`
+
+https://github.com/user-attachments/assets/67c06e36-559d-4c1e-8565-86cbacee7c33
 
 ## Layout
 
