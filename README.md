@@ -9,7 +9,6 @@ Projeto desenvolvido durante o NLW Unite da [Rocketseat](https://app.rocketseat.
 - [Ferramentas](#ferramentas)
 - [Instalação](#instalação)
 - [Funcionalidade](#funcionalidades)
-- [Projeto](#projeto)
 - [Layout](#layout)
 - [Licença](#licença)
 
